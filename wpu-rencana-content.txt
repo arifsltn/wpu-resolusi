@@ -36,3 +36,4 @@ RENCANA KONTEN WPU
 - Aplikasi android
 - Sertifikat SSL
 - Belajar Ai 2025
+- Data Analysis
